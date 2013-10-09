@@ -1,12 +1,12 @@
-OSCON2012
+Tech4Africa 2013
 =========
 
-OSCON2012 code for MongoDB and Android talk
+Tech4Africa code for MongoDB geospatial talk
 
-For information please contact Paul Scott <pscott209@gmail.com> or Herman Smith <hermansmeagol@gmail.com>
+For information please contact Paul Scott <paul.scott@dstvo.com>
 
 All code is licensed under GPLv3 and all data is Creative Commons Attribution license. 
 
 Geographical data is available on geonames.org under the same license.
 
-Enjoy, and please do ping us if you use this code for something useful!
+Enjoy, and please do ping me if you use this code for something useful!
